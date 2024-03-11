@@ -1,0 +1,8 @@
+envCP303/
+apple-volume-estimation-e63d0e6f8145.json
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+.env
+Dataset/
+*.Identifier
+Dataset_Cropped/
