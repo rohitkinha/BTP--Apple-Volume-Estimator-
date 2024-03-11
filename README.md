@@ -37,7 +37,7 @@ The fruits are categorized into spherical, ellipsoid, and paraboloid shapes, and
 This approach encompasses employing the support vector machine regression (SVMR) modeling technique to develop a model for estimating the volume of fruit samples based on ellipse parameters. It also involves exploring various kernels and analyzing their performance to compare their effectiveness.
 
 #### Results from SVR for different kernel types - 
-# Kernel Type		Mean Squared Error		   R-squared
+##### Kernel Type		Mean Squared Error		   R-squared
 - linear		   	173035668.40611073	     -103665.94875136238
 - poly		   	402.08593542158906	     	0.7591073421743061
 - rbf			      461.49269635528475	   	0.723516312313665
